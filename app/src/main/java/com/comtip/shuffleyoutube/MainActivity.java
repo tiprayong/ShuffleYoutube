@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
     String  pageTokenBuffer ="YouTUBE";
     final String snippet = "part=snippet&playlistId=";
     String playlistID = "FLwaneH6gg3PLNIDCEmhlzoQ" ; //  สามารถรับ Input จากข้างนอกได้
-    final  String keyAPI  =  "&maxResults=50&key=AIzaSyB-iYo9CZ0yb13a4esvDeVOZG2zdTqFf0I";
+    final  String keyAPI  =  "&maxResults=50&key=Youtube API Key";
     String queryYTPL;
     String playlistPage;
     String showPlaylist;
